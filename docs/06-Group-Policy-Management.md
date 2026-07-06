@@ -56,8 +56,7 @@ Configuration includes:
 
 These settings reduce the likelihood of weak or reused passwords.
 
-> --
-
+<img width="595" height="430" alt="ad pic 15" src="https://github.com/user-attachments/assets/64d0a0b5-30bf-4ea6-bd3f-5363ef4fae64" />
 ---
 
 ## Account Lockout Policy
@@ -72,22 +71,10 @@ Configuration includes:
 
 This helps prevent repeated password guessing attempts while allowing legitimate users to regain access after the configured lockout period.
 
-> **Insert screenshot of Account Lockout Policy**
+<img width="543" height="392" alt="ad pic 16" src="https://github.com/user-attachments/assets/8783181e-c5c8-4dea-a9ef-9e2391597a7a" />
 
 ---
 
-## Screen Lock Policy
-
-A Screen Lock Policy was implemented to automatically secure inactive workstations.
-
-Configuration includes:
-
-- Automatic screen lock after inactivity
-- Password required upon resume
-
-This helps protect company data when employees leave their workstations unattended.
-
-> **Insert screenshot of Screen Lock Policy**
 
 ---
 
@@ -103,7 +90,7 @@ Configuration includes:
 
 Centralized update management helps ensure systems remain secure without requiring manual intervention.
 
-> **Insert screenshot of Windows Update Policy**
+<img width="543" height="508" alt="ad pic 17" src="https://github.com/user-attachments/assets/0ffc8095-68e6-4388-9b60-6d05ce20628a" />
 
 ---
 
@@ -115,7 +102,6 @@ The selected policies were chosen because they address common security risks fou
 |----------|------------------|
 | Password Policy | Improves account security by enforcing stronger passwords. |
 | Account Lockout | Reduces the risk of brute-force password attacks. |
-| Screen Lock | Protects unattended workstations from unauthorized access. |
 | Windows Updates | Ensures systems remain protected against known vulnerabilities. |
 
 Together, these policies establish a standardized security baseline across the organization.
